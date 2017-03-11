@@ -1,0 +1,7 @@
+/target
+atlassian-ide-plugin.xml
+*.iml
+.DS_Store
+.idea
+
+/*.blend1
