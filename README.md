@@ -1,2 +1,2 @@
 # Projects_DJD
-projetos de mirandela be gay
+Mostly Projects that were made in the bachelor degree
